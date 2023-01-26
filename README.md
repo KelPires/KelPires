@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @KelPires
-- 👀 Sou interessado em tudo sobre qaulidade e testes de software QA e TI
-- 🌱 Atualmente estou me preparando para fazer uma certificação em QA 
-- 💞️ Posso coloaborar me assuntos relacioandos a testes de software e tecnologia em geral.
+- 👀 Sou interessado em tudo sobre qualidade e testes de software QA e TI
+- 🌱 Atualmente estou me preparando para fazer uma certificação em QA (CTFL)
+- 💞️ Posso colaborar em assuntos relacioandos a testes de software e tecnologia em geral.
 - 📫 Meus contatos são; kelderson21@gmail.com ; +55 91 980166608
 
 <!---
